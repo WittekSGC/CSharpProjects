@@ -1,0 +1,12 @@
+C:\Users\WiTTeK\Desktop\стас варик 12\4\5.2\bin\Debug\5.2.exe.config
+C:\Users\WiTTeK\Desktop\стас варик 12\4\5.2\bin\Debug\5.2.exe
+C:\Users\WiTTeK\Desktop\стас варик 12\4\5.2\bin\Debug\5.2.pdb
+C:\Users\WiTTeK\Desktop\стас варик 12\4\5.2\obj\Debug\5.2.csprojAssemblyReference.cache
+C:\Users\WiTTeK\Desktop\стас варик 12\4\5.2\obj\Debug\5.2.exe
+C:\Users\WiTTeK\Desktop\стас варик 12\4\5.2\obj\Debug\5.2.pdb
+C:\Users\WiTTeK\Desktop\стас варик 12\5\5.2\bin\Debug\5.2.exe.config
+C:\Users\WiTTeK\Desktop\стас варик 12\5\5.2\bin\Debug\5.2.exe
+C:\Users\WiTTeK\Desktop\стас варик 12\5\5.2\bin\Debug\5.2.pdb
+C:\Users\WiTTeK\Desktop\стас варик 12\5\5.2\obj\Debug\5.2.csprojAssemblyReference.cache
+C:\Users\WiTTeK\Desktop\стас варик 12\5\5.2\obj\Debug\5.2.exe
+C:\Users\WiTTeK\Desktop\стас варик 12\5\5.2\obj\Debug\5.2.pdb

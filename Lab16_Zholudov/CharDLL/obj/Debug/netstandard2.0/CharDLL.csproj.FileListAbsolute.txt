@@ -1,0 +1,8 @@
+F:\курс 3\C#\Lab16_Zholudov\CharDLL\bin\Debug\netstandard2.0\CharDLL.deps.json
+F:\курс 3\C#\Lab16_Zholudov\CharDLL\bin\Debug\netstandard2.0\CharDLL.dll
+F:\курс 3\C#\Lab16_Zholudov\CharDLL\bin\Debug\netstandard2.0\CharDLL.pdb
+F:\курс 3\C#\Lab16_Zholudov\CharDLL\obj\Debug\netstandard2.0\CharDLL.csprojAssemblyReference.cache
+F:\курс 3\C#\Lab16_Zholudov\CharDLL\obj\Debug\netstandard2.0\CharDLL.AssemblyInfoInputs.cache
+F:\курс 3\C#\Lab16_Zholudov\CharDLL\obj\Debug\netstandard2.0\CharDLL.AssemblyInfo.cs
+F:\курс 3\C#\Lab16_Zholudov\CharDLL\obj\Debug\netstandard2.0\CharDLL.dll
+F:\курс 3\C#\Lab16_Zholudov\CharDLL\obj\Debug\netstandard2.0\CharDLL.pdb

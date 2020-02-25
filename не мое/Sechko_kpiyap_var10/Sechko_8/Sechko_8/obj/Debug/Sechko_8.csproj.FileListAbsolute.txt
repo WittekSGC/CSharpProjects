@@ -1,0 +1,6 @@
+C:\Users\WiTTeK\Desktop\Sechko_kpiyap\Sechko_8\Sechko_8\bin\Debug\Sechko_8.exe.config
+C:\Users\WiTTeK\Desktop\Sechko_kpiyap\Sechko_8\Sechko_8\bin\Debug\Sechko_8.exe
+C:\Users\WiTTeK\Desktop\Sechko_kpiyap\Sechko_8\Sechko_8\bin\Debug\Sechko_8.pdb
+C:\Users\WiTTeK\Desktop\Sechko_kpiyap\Sechko_8\Sechko_8\obj\Debug\Sechko_8.csprojAssemblyReference.cache
+C:\Users\WiTTeK\Desktop\Sechko_kpiyap\Sechko_8\Sechko_8\obj\Debug\Sechko_8.exe
+C:\Users\WiTTeK\Desktop\Sechko_kpiyap\Sechko_8\Sechko_8\obj\Debug\Sechko_8.pdb

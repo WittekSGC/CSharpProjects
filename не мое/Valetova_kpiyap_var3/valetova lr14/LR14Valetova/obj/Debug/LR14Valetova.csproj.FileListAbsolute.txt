@@ -1,0 +1,6 @@
+C:\Users\WITTEK\Desktop\valetova lr14\LR14Valetova\bin\Debug\LR14Valetova.exe.config
+C:\Users\WITTEK\Desktop\valetova lr14\LR14Valetova\bin\Debug\LR14Valetova.exe
+C:\Users\WITTEK\Desktop\valetova lr14\LR14Valetova\bin\Debug\LR14Valetova.pdb
+C:\Users\WITTEK\Desktop\valetova lr14\LR14Valetova\obj\Debug\LR14Valetova.csprojAssemblyReference.cache
+C:\Users\WITTEK\Desktop\valetova lr14\LR14Valetova\obj\Debug\LR14Valetova.exe
+C:\Users\WITTEK\Desktop\valetova lr14\LR14Valetova\obj\Debug\LR14Valetova.pdb

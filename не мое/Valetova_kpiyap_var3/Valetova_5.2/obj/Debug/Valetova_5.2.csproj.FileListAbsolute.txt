@@ -1,0 +1,12 @@
+C:\Users\WiTTeK\Desktop\Valetova_kpiyap\Valetova_5.2\bin\Debug\Valetova_5.2.exe.config
+C:\Users\WiTTeK\Desktop\Valetova_kpiyap\Valetova_5.2\bin\Debug\Valetova_5.2.exe
+C:\Users\WiTTeK\Desktop\Valetova_kpiyap\Valetova_5.2\bin\Debug\Valetova_5.2.pdb
+C:\Users\WiTTeK\Desktop\Valetova_kpiyap\Valetova_5.2\obj\Debug\Valetova_5.2.csprojAssemblyReference.cache
+C:\Users\WiTTeK\Desktop\Valetova_kpiyap\Valetova_5.2\obj\Debug\Valetova_5.2.exe
+C:\Users\WiTTeK\Desktop\Valetova_kpiyap\Valetova_5.2\obj\Debug\Valetova_5.2.pdb
+E:\курс 3\C#\не мое\Valetova_kpiyap_var3\Valetova_5.2\bin\Debug\Valetova_5.2.exe.config
+E:\курс 3\C#\не мое\Valetova_kpiyap_var3\Valetova_5.2\bin\Debug\Valetova_5.2.exe
+E:\курс 3\C#\не мое\Valetova_kpiyap_var3\Valetova_5.2\bin\Debug\Valetova_5.2.pdb
+E:\курс 3\C#\не мое\Valetova_kpiyap_var3\Valetova_5.2\obj\Debug\Valetova_5.2.csprojAssemblyReference.cache
+E:\курс 3\C#\не мое\Valetova_kpiyap_var3\Valetova_5.2\obj\Debug\Valetova_5.2.exe
+E:\курс 3\C#\не мое\Valetova_kpiyap_var3\Valetova_5.2\obj\Debug\Valetova_5.2.pdb

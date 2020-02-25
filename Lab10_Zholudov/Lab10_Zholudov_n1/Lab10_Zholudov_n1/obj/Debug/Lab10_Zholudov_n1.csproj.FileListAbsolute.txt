@@ -1,0 +1,6 @@
+E:\курс 3\C#\Lab10_Zholudov\Lab10_Zholudov_n1\Lab10_Zholudov_n1\bin\Debug\Lab10_Zholudov_n1.exe.config
+E:\курс 3\C#\Lab10_Zholudov\Lab10_Zholudov_n1\Lab10_Zholudov_n1\bin\Debug\Lab10_Zholudov_n1.exe
+E:\курс 3\C#\Lab10_Zholudov\Lab10_Zholudov_n1\Lab10_Zholudov_n1\bin\Debug\Lab10_Zholudov_n1.pdb
+E:\курс 3\C#\Lab10_Zholudov\Lab10_Zholudov_n1\Lab10_Zholudov_n1\obj\Debug\Lab10_Zholudov_n1.csprojAssemblyReference.cache
+E:\курс 3\C#\Lab10_Zholudov\Lab10_Zholudov_n1\Lab10_Zholudov_n1\obj\Debug\Lab10_Zholudov_n1.exe
+E:\курс 3\C#\Lab10_Zholudov\Lab10_Zholudov_n1\Lab10_Zholudov_n1\obj\Debug\Lab10_Zholudov_n1.pdb

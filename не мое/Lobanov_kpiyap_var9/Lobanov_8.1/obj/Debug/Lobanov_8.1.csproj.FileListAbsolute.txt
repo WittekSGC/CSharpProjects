@@ -1,0 +1,6 @@
+C:\Users\WiTTeK\Desktop\Lobanov\Lobanov_8.1\bin\Debug\Lobanov_8.1.exe.config
+C:\Users\WiTTeK\Desktop\Lobanov\Lobanov_8.1\bin\Debug\Lobanov_8.1.exe
+C:\Users\WiTTeK\Desktop\Lobanov\Lobanov_8.1\bin\Debug\Lobanov_8.1.pdb
+C:\Users\WiTTeK\Desktop\Lobanov\Lobanov_8.1\obj\Debug\Lobanov_8.1.csprojAssemblyReference.cache
+C:\Users\WiTTeK\Desktop\Lobanov\Lobanov_8.1\obj\Debug\Lobanov_8.1.exe
+C:\Users\WiTTeK\Desktop\Lobanov\Lobanov_8.1\obj\Debug\Lobanov_8.1.pdb

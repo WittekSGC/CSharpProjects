@@ -1,0 +1,6 @@
+C:\Users\WiTTeK\Desktop\стас варик 12\4\4.1\bin\Debug\4.1.exe.config
+C:\Users\WiTTeK\Desktop\стас варик 12\4\4.1\bin\Debug\4.1.exe
+C:\Users\WiTTeK\Desktop\стас варик 12\4\4.1\bin\Debug\4.1.pdb
+C:\Users\WiTTeK\Desktop\стас варик 12\4\4.1\obj\Debug\4.1.a.csprojAssemblyReference.cache
+C:\Users\WiTTeK\Desktop\стас варик 12\4\4.1\obj\Debug\4.1.exe
+C:\Users\WiTTeK\Desktop\стас варик 12\4\4.1\obj\Debug\4.1.pdb

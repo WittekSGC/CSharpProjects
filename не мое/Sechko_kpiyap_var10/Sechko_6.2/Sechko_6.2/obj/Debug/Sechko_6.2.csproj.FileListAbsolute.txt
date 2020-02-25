@@ -1,0 +1,6 @@
+C:\Users\WiTTeK\Desktop\Setchko_kpiyap\Setchko_6.2\Setchko_6.2\bin\Debug\Setchko_6.2.exe.config
+C:\Users\WiTTeK\Desktop\Setchko_kpiyap\Setchko_6.2\Setchko_6.2\bin\Debug\Setchko_6.2.exe
+C:\Users\WiTTeK\Desktop\Setchko_kpiyap\Setchko_6.2\Setchko_6.2\bin\Debug\Setchko_6.2.pdb
+C:\Users\WiTTeK\Desktop\Setchko_kpiyap\Setchko_6.2\Setchko_6.2\obj\Debug\Setchko_6.2.csprojAssemblyReference.cache
+C:\Users\WiTTeK\Desktop\Setchko_kpiyap\Setchko_6.2\Setchko_6.2\obj\Debug\Setchko_6.2.exe
+C:\Users\WiTTeK\Desktop\Setchko_kpiyap\Setchko_6.2\Setchko_6.2\obj\Debug\Setchko_6.2.pdb

@@ -1,0 +1,6 @@
+F:\курс 3\C#\не мое\Sechko_kpiyap_var10\Sechko_11\obj\Debug\Sechko_10.1.csprojAssemblyReference.cache
+F:\курс 3\C#\не мое\Sechko_kpiyap_var10\Sechko_11\bin\Debug\Sechko_10.1.exe.config
+F:\курс 3\C#\не мое\Sechko_kpiyap_var10\Sechko_11\bin\Debug\Sechko_10.1.exe
+F:\курс 3\C#\не мое\Sechko_kpiyap_var10\Sechko_11\bin\Debug\Sechko_10.1.pdb
+F:\курс 3\C#\не мое\Sechko_kpiyap_var10\Sechko_11\obj\Debug\Sechko_10.1.exe
+F:\курс 3\C#\не мое\Sechko_kpiyap_var10\Sechko_11\obj\Debug\Sechko_10.1.pdb

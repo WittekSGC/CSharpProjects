@@ -1,0 +1,11 @@
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n3\bin\Debug\netcoreapp2.1\Lab6_Zholudov_n3.deps.json
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n3\bin\Debug\netcoreapp2.1\Lab6_Zholudov_n3.runtimeconfig.json
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n3\bin\Debug\netcoreapp2.1\Lab6_Zholudov_n3.runtimeconfig.dev.json
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n3\bin\Debug\netcoreapp2.1\Lab6_Zholudov_n3.dll
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n3\bin\Debug\netcoreapp2.1\Lab6_Zholudov_n3.pdb
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n3\obj\Debug\netcoreapp2.1\Lab6_Zholudov_n3.csprojAssemblyReference.cache
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n3\obj\Debug\netcoreapp2.1\Lab6_Zholudov_n3.csproj.CoreCompileInputs.cache
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n3\obj\Debug\netcoreapp2.1\Lab6_Zholudov_n3.AssemblyInfoInputs.cache
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n3\obj\Debug\netcoreapp2.1\Lab6_Zholudov_n3.AssemblyInfo.cs
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n3\obj\Debug\netcoreapp2.1\Lab6_Zholudov_n3.dll
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n3\obj\Debug\netcoreapp2.1\Lab6_Zholudov_n3.pdb

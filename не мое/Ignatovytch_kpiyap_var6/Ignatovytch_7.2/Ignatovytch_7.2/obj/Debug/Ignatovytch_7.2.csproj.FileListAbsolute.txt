@@ -1,0 +1,6 @@
+C:\Users\WiTTeK\Desktop\Ignatovytch_kpiyap\Ignatovytch_7.2\Ignatovytch_7.2\bin\Debug\Ignatovytch_7.2.exe.config
+C:\Users\WiTTeK\Desktop\Ignatovytch_kpiyap\Ignatovytch_7.2\Ignatovytch_7.2\bin\Debug\Ignatovytch_7.2.exe
+C:\Users\WiTTeK\Desktop\Ignatovytch_kpiyap\Ignatovytch_7.2\Ignatovytch_7.2\bin\Debug\Ignatovytch_7.2.pdb
+C:\Users\WiTTeK\Desktop\Ignatovytch_kpiyap\Ignatovytch_7.2\Ignatovytch_7.2\obj\Debug\Ignatovytch_7.2.exe
+C:\Users\WiTTeK\Desktop\Ignatovytch_kpiyap\Ignatovytch_7.2\Ignatovytch_7.2\obj\Debug\Ignatovytch_7.2.pdb
+C:\Users\WiTTeK\Desktop\Ignatovytch_kpiyap\Ignatovytch_7.2\Ignatovytch_7.2\obj\Debug\Ignatovytch_7.2.csprojAssemblyReference.cache

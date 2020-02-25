@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valetova_9.1", "Valetova_9.1.csproj", "{853A995E-3EEA-4BD9-9684-52D79A462096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{853A995E-3EEA-4BD9-9684-52D79A462096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853A995E-3EEA-4BD9-9684-52D79A462096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853A995E-3EEA-4BD9-9684-52D79A462096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853A995E-3EEA-4BD9-9684-52D79A462096}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2B18ED0-651F-440E-B08C-49EF7DB62456}
+	EndGlobalSection
+EndGlobal

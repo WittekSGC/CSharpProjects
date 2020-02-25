@@ -1,0 +1,6 @@
+C:\Users\WiTTeK\Desktop\Valetova_kpiyap\Valetova_7.1\obj\Debug\Valetova_7.1.csprojAssemblyReference.cache
+C:\Users\WiTTeK\Desktop\Valetova_kpiyap\Valetova_7.1\bin\Debug\Valetova_7.1.exe.config
+C:\Users\WiTTeK\Desktop\Valetova_kpiyap\Valetova_7.1\bin\Debug\Valetova_7.1.exe
+C:\Users\WiTTeK\Desktop\Valetova_kpiyap\Valetova_7.1\bin\Debug\Valetova_7.1.pdb
+C:\Users\WiTTeK\Desktop\Valetova_kpiyap\Valetova_7.1\obj\Debug\Valetova_7.1.exe
+C:\Users\WiTTeK\Desktop\Valetova_kpiyap\Valetova_7.1\obj\Debug\Valetova_7.1.pdb

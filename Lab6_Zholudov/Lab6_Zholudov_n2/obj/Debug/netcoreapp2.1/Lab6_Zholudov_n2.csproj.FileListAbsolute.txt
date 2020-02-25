@@ -1,0 +1,21 @@
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n2\bin\Debug\netcoreapp2.1\Lab6_Zholudov_n2.deps.json
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n2\bin\Debug\netcoreapp2.1\Lab6_Zholudov_n2.runtimeconfig.json
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n2\bin\Debug\netcoreapp2.1\Lab6_Zholudov_n2.runtimeconfig.dev.json
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n2\bin\Debug\netcoreapp2.1\Lab6_Zholudov_n2.dll
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n2\bin\Debug\netcoreapp2.1\Lab6_Zholudov_n2.pdb
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n2\obj\Debug\netcoreapp2.1\Lab6_Zholudov_n2.csprojAssemblyReference.cache
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n2\obj\Debug\netcoreapp2.1\Lab6_Zholudov_n2.csproj.CoreCompileInputs.cache
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n2\obj\Debug\netcoreapp2.1\Lab6_Zholudov_n2.AssemblyInfoInputs.cache
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n2\obj\Debug\netcoreapp2.1\Lab6_Zholudov_n2.AssemblyInfo.cs
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n2\obj\Debug\netcoreapp2.1\Lab6_Zholudov_n2.dll
+E:\C#\Lab6_Zholudov\Lab6_Zholudov_n2\obj\Debug\netcoreapp2.1\Lab6_Zholudov_n2.pdb
+E:\курс 3\C#\Lab6_Zholudov\Lab6_Zholudov_n2\bin\Debug\netcoreapp2.1\Lab6_Zholudov_n2.deps.json
+E:\курс 3\C#\Lab6_Zholudov\Lab6_Zholudov_n2\bin\Debug\netcoreapp2.1\Lab6_Zholudov_n2.runtimeconfig.json
+E:\курс 3\C#\Lab6_Zholudov\Lab6_Zholudov_n2\bin\Debug\netcoreapp2.1\Lab6_Zholudov_n2.runtimeconfig.dev.json
+E:\курс 3\C#\Lab6_Zholudov\Lab6_Zholudov_n2\bin\Debug\netcoreapp2.1\Lab6_Zholudov_n2.dll
+E:\курс 3\C#\Lab6_Zholudov\Lab6_Zholudov_n2\bin\Debug\netcoreapp2.1\Lab6_Zholudov_n2.pdb
+E:\курс 3\C#\Lab6_Zholudov\Lab6_Zholudov_n2\obj\Debug\netcoreapp2.1\Lab6_Zholudov_n2.csprojAssemblyReference.cache
+E:\курс 3\C#\Lab6_Zholudov\Lab6_Zholudov_n2\obj\Debug\netcoreapp2.1\Lab6_Zholudov_n2.AssemblyInfoInputs.cache
+E:\курс 3\C#\Lab6_Zholudov\Lab6_Zholudov_n2\obj\Debug\netcoreapp2.1\Lab6_Zholudov_n2.AssemblyInfo.cs
+E:\курс 3\C#\Lab6_Zholudov\Lab6_Zholudov_n2\obj\Debug\netcoreapp2.1\Lab6_Zholudov_n2.dll
+E:\курс 3\C#\Lab6_Zholudov\Lab6_Zholudov_n2\obj\Debug\netcoreapp2.1\Lab6_Zholudov_n2.pdb

@@ -1,0 +1,110 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Sechko_11
+{
+    abstract class Function
+    {
+        public virtual double GetY()
+        {
+            return 0;
+        }
+    }
+
+    class Ellipse : Function
+    {
+        double a, b, x;
+
+        public Ellipse(double aa, double bb, double xx)
+        {
+            a = aa;
+            b = bb;
+            x = xx;
+        }
+
+        public override double GetY()
+        {
+            return Math.Sqrt(Math.Abs((1 - x * x / a / a) * b * b));
+        }
+    }
+
+    class Hiperbola : Function
+    {
+        double a, b, x;
+
+        public Hiperbola(double aa, double bb, double xx)
+        {
+            a = aa;
+            b = bb;
+            x = xx;
+        }
+
+        public override double GetY()
+        {
+            return Math.Sqrt(Math.Abs((x * x / a / a - 1) * b * b));
+        }
+    }
+
+    class Parabola : Function
+    {
+        double x, p;
+
+        public Parabola(double xx, double pp)
+        {
+            x = xx;
+            p = pp;
+        }
+
+        public override double GetY()
+        {
+            return Math.Sqrt(Math.Abs(2*p*x));
+        }
+    }
+
+    class Series : IComparer<Function>
+    {
+        Function[] functions = new Function[3];
+
+        public Series()
+        {
+            Console.WriteLine("Введите коэфициенты а и b, а также значение x для нахождения требуемой точки y эллипса");
+            Ellipse ellipse = new Ellipse(double.Parse(Console.ReadLine()), double.Parse(Console.ReadLine()), double.Parse(Console.ReadLine()));
+            functions[0] = ellipse;
+            Console.WriteLine("Введите коэфициенты а и b, а также значение x для нахождения требуемой точки y гиперболы");
+            Hiperbola hiperbola = new Hiperbola(double.Parse(Console.ReadLine()), double.Parse(Console.ReadLine()), double.Parse(Console.ReadLine()));
+            functions[1] = hiperbola;
+            Console.WriteLine("Введите коэфициент p, а также значение x для нахождения требуемой точки y параболы");
+            Parabola parabola = new Parabola(double.Parse(Console.ReadLine()), double.Parse(Console.ReadLine()));
+            functions[2] = parabola;
+            Array.Sort(functions, Compare);
+        }
+
+        public void Print()
+        {
+            for (int i = 0; i < 3; i++)
+            {
+                Console.WriteLine(functions[i].GetY());
+            }
+        }
+
+        public int Compare(Function p1, Function p2)
+        {
+            if (p1.GetY() > p2.GetY()) return 1;
+            else if (p1.GetY() == p2.GetY()) return 0;
+            else return -1;
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Series series = new Series();
+            series.Print();
+            Console.ReadKey();
+        }
+    }
+}

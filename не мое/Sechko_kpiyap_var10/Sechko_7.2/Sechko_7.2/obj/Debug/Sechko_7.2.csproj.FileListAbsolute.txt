@@ -1,0 +1,6 @@
+C:\Users\WiTTeK\Desktop\Sechko_kpiyap\Sechko_7.2\Sechko_7.2\bin\Debug\Sechko_7.2.exe.config
+C:\Users\WiTTeK\Desktop\Sechko_kpiyap\Sechko_7.2\Sechko_7.2\bin\Debug\Sechko_7.2.exe
+C:\Users\WiTTeK\Desktop\Sechko_kpiyap\Sechko_7.2\Sechko_7.2\bin\Debug\Sechko_7.2.pdb
+C:\Users\WiTTeK\Desktop\Sechko_kpiyap\Sechko_7.2\Sechko_7.2\obj\Debug\Sechko_7.2.exe
+C:\Users\WiTTeK\Desktop\Sechko_kpiyap\Sechko_7.2\Sechko_7.2\obj\Debug\Sechko_7.2.pdb
+C:\Users\WiTTeK\Desktop\Sechko_kpiyap\Sechko_7.2\Sechko_7.2\obj\Debug\Sechko_7.2.csprojAssemblyReference.cache

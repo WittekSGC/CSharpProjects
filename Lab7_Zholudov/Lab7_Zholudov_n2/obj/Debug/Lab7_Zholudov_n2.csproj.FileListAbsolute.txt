@@ -1,0 +1,6 @@
+F:\C#\Lab7_Zholudov\Lab7_Zholudov_n2\bin\Debug\Lab7_Zholudov_n2.exe.config
+F:\C#\Lab7_Zholudov\Lab7_Zholudov_n2\bin\Debug\Lab7_Zholudov_n2.exe
+F:\C#\Lab7_Zholudov\Lab7_Zholudov_n2\bin\Debug\Lab7_Zholudov_n2.pdb
+F:\C#\Lab7_Zholudov\Lab7_Zholudov_n2\obj\Debug\Lab7_Zholudov_n2.csprojAssemblyReference.cache
+F:\C#\Lab7_Zholudov\Lab7_Zholudov_n2\obj\Debug\Lab7_Zholudov_n2.exe
+F:\C#\Lab7_Zholudov\Lab7_Zholudov_n2\obj\Debug\Lab7_Zholudov_n2.pdb
