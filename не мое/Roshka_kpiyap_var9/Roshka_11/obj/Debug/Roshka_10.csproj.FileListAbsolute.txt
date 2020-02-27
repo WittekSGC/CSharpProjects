@@ -1,0 +1,6 @@
+F:\курс 3\C#\не мое\Roshka_kpiyap_var9\Roshka_11\bin\Debug\Roshka_10.exe.config
+F:\курс 3\C#\не мое\Roshka_kpiyap_var9\Roshka_11\bin\Debug\Roshka_10.exe
+F:\курс 3\C#\не мое\Roshka_kpiyap_var9\Roshka_11\bin\Debug\Roshka_10.pdb
+F:\курс 3\C#\не мое\Roshka_kpiyap_var9\Roshka_11\obj\Debug\Roshka_10.csprojAssemblyReference.cache
+F:\курс 3\C#\не мое\Roshka_kpiyap_var9\Roshka_11\obj\Debug\Roshka_10.exe
+F:\курс 3\C#\не мое\Roshka_kpiyap_var9\Roshka_11\obj\Debug\Roshka_10.pdb

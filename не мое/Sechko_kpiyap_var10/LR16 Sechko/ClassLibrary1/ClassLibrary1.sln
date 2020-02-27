@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicGate", "LogicGate.csproj", "{8EB104B4-251A-41AA-94CC-B7444B2F2448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EB104B4-251A-41AA-94CC-B7444B2F2448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB104B4-251A-41AA-94CC-B7444B2F2448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB104B4-251A-41AA-94CC-B7444B2F2448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB104B4-251A-41AA-94CC-B7444B2F2448}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5C4E47E-05E2-4B18-8FD4-C3AF06A264F3}
+	EndGlobalSection
+EndGlobal

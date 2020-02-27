@@ -1,0 +1,8 @@
+C:\Users\WITTEK\Desktop\Valetova LR16\ClassLibrary1\bin\Debug\netstandard2.0\MyData.deps.json
+C:\Users\WITTEK\Desktop\Valetova LR16\ClassLibrary1\bin\Debug\netstandard2.0\MyData.dll
+C:\Users\WITTEK\Desktop\Valetova LR16\ClassLibrary1\bin\Debug\netstandard2.0\MyData.pdb
+C:\Users\WITTEK\Desktop\Valetova LR16\ClassLibrary1\obj\Debug\netstandard2.0\MyData.csprojAssemblyReference.cache
+C:\Users\WITTEK\Desktop\Valetova LR16\ClassLibrary1\obj\Debug\netstandard2.0\MyData.AssemblyInfoInputs.cache
+C:\Users\WITTEK\Desktop\Valetova LR16\ClassLibrary1\obj\Debug\netstandard2.0\MyData.AssemblyInfo.cs
+C:\Users\WITTEK\Desktop\Valetova LR16\ClassLibrary1\obj\Debug\netstandard2.0\MyData.dll
+C:\Users\WITTEK\Desktop\Valetova LR16\ClassLibrary1\obj\Debug\netstandard2.0\MyData.pdb

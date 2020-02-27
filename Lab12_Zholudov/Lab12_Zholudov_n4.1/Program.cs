@@ -1,57 +1,45 @@
 ﻿using System;
+
 namespace ConsoleApplication1
 {
     delegate string strMod(string stx); 
+
     class DelegateTest
-                      
     {
         public static string replaceSpaces(string a)
         {
-            Console.WriteLine(" Замена пробелов дефисами.");
             return a.Replace(' ', '-');
         }
 
-      /*  public static string removeSpaces(string a)
+        public static strMod ModifyAnonim()
         {
-            string temp = "";
-            Console.WriteLine(" Удаление пробелов.");
-            for (int i = 0; i < a.Length; i++)
-                if (a[i] != ' ')
-                    temp += a[i];
-            return temp;
+            strMod mod = delegate (string a)
+            {
+                return a.Replace(' ', '-');
+            };
+            return mod;
         }
-
-        public static string reverse(string a)
-        {
-            string temp = "";
-            Console.WriteLine(" Реверсирование строки.");
-            for (int j = 0, i = a.Length - 1; i >= 0; i--, j++)
-                temp += a[i];
-            return temp;
-        }*/
     }
     class Program
     {
         static void Main(string[] args)
         {
-            string str;
-            strMod strOp = new strMod(DelegateTest.replaceSpaces);
+            Console.Title = "Пример №1";
+            Console.BackgroundColor = ConsoleColor.White; Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Black;
 
-            str = strOp(" Это простой тест.");
-            Console.WriteLine(" Результирующая строка: " + str);
-            Console.WriteLine();
+            string custom = "my some text for tests";
 
-           /* strOp = new strMod(DelegateTest.removeSpaces);
-            str = strOp(" Это простой тест.");
-            Console.WriteLine(" Результирующая строка: " + str);
-            Console.WriteLine();
+            strMod strOp = new strMod(DelegateTest.replaceSpaces);//просто метод
+            Console.WriteLine(strOp(custom) + "||||METHOD||||");
 
-            strOp = new strMod(DelegateTest.reverse);
-            str = strOp(" Это простой тест.");
-            Console.WriteLine(" Результирующая строка: " + str);
-            Console.Write("Для завершения работы приложения нажмите клавишу < Enter > ");*/
+            strMod mod1 = DelegateTest.ModifyAnonim(); //через анонимный метод
+            Console.WriteLine(mod1(custom) + "||||ANONYMUS||||");
 
-            Console.Read();
+            strMod mod2 = a => a.Replace(' ', '-'); //через лямбду
+            Console.WriteLine(mod2(custom) + "||||LAMBDA||||");
+
+            Console.ReadKey();
         }
     }
 }
