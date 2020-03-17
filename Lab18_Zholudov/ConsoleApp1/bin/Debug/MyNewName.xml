@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <firstChild>metaInfo text</firstChild>
+  <MyNode newAttribute="niceCook" />
+  <MyNode newAttribute="niceCook" />
+  <MyNode newAttribute="niceCook" />
+  <MyNode newAttribute="niceCook" />
+  <MyNode newAttribute="niceCook" />
+</root>

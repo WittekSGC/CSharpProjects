@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<users>
+    <user name="Wittek">
+        <company>SGC</company>
+        <age>10</age>
+    </user>
+    <user name="Masha">
+        <company>Colledge</company>
+        <age>5</age>
+    </user>
+</users>
+
+<!-- КОММЕНТАРИЙ -->

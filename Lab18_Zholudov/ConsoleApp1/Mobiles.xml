@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<mobileModels>
+  <meta>
+    <nameLabRab>XML using in C#</nameLabRab>
+    <numberLab>18</numberLab>
+    <fio>Zholudov Viktor Alexeevytch</fio>
+  </meta>
+  <mobile>
+    <name>Honor</name>
+    <model>10i</model>
+    <year>2019</year>
+    <price>300$</price>
+  </mobile>
+  <mobile>
+    <name>Honor</name>
+    <model>10</model>
+    <year>2019</year>
+    <price>200$</price>
+  </mobile>
+  <mobile>
+    <name>Huawei</name>
+    <model>P20</model>
+    <year>2018</year>
+    <price>350$</price>
+  </mobile>
+</mobileModels>
+  
