@@ -1,0 +1,6 @@
+C:\Users\WITTEK\Desktop\KPI_Test\bin\Debug\KPI_Test.exe.config
+C:\Users\WITTEK\Desktop\KPI_Test\bin\Debug\KPI_Test.exe
+C:\Users\WITTEK\Desktop\KPI_Test\bin\Debug\KPI_Test.pdb
+C:\Users\WITTEK\Desktop\KPI_Test\obj\Debug\KPI_Test.csprojAssemblyReference.cache
+C:\Users\WITTEK\Desktop\KPI_Test\obj\Debug\KPI_Test.exe
+C:\Users\WITTEK\Desktop\KPI_Test\obj\Debug\KPI_Test.pdb

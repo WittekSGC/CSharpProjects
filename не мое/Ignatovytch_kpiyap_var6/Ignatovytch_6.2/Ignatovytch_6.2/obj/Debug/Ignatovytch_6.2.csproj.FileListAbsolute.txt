@@ -1,6 +1,0 @@
-C:\Users\WiTTeK\Desktop\Ignatovytch_kpiyap\Ignatovytch_6.2\Ignatovytch_6.2\bin\Debug\Ignatovytch_6.2.exe.config
-C:\Users\WiTTeK\Desktop\Ignatovytch_kpiyap\Ignatovytch_6.2\Ignatovytch_6.2\bin\Debug\Ignatovytch_6.2.exe
-C:\Users\WiTTeK\Desktop\Ignatovytch_kpiyap\Ignatovytch_6.2\Ignatovytch_6.2\bin\Debug\Ignatovytch_6.2.pdb
-C:\Users\WiTTeK\Desktop\Ignatovytch_kpiyap\Ignatovytch_6.2\Ignatovytch_6.2\obj\Debug\Ignatovytch_6.2.csprojAssemblyReference.cache
-C:\Users\WiTTeK\Desktop\Ignatovytch_kpiyap\Ignatovytch_6.2\Ignatovytch_6.2\obj\Debug\Ignatovytch_6.2.exe
-C:\Users\WiTTeK\Desktop\Ignatovytch_kpiyap\Ignatovytch_6.2\Ignatovytch_6.2\obj\Debug\Ignatovytch_6.2.pdb

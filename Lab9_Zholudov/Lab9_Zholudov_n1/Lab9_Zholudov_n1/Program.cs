@@ -12,17 +12,15 @@ namespace Lab9_Zholudov_n1
         {
             public string _name, _type;    //пункт назначения, тип самолета
             public int _number;            //номер рейса
-
-
         }
 
         static void Main(string[] args)
         {
             int n = 7;
-            Aeroflot[] aeroflots = new Aeroflot[7];
+            Aeroflot[] aeroflots = new Aeroflot[n];
 
             Console.WriteLine("Введите пункт назначения(string), номер рейса(int) и тип самолета(string)");
-            for (int i = 0; i < 7; i++)
+            for (int i = 0; i < n; i++)
             {
                 Console.Write("Авиарейс {0}: ", i + 1);
                 aeroflots[i]._name = Console.ReadLine();
@@ -31,9 +29,9 @@ namespace Lab9_Zholudov_n1
             }
 
             Aeroflot temp = new Aeroflot();
-            for (int j = 0; j < 7; j++)
+            for (int j = 0; j < n; j++)
             {
-                for (int i = 0; i < 6; i++)
+                for (int i = 0; i < n-1; i++)
                 {
                     if (aeroflots[i]._number > aeroflots[i+1]._number )
                     {
@@ -48,7 +46,7 @@ namespace Lab9_Zholudov_n1
             string punkt = Console.ReadLine();
             bool find = false;
             int count = 1;
-            for (int i = 0; i < 7; i++)
+            for (int i = 0; i < n; i++)
             {
                 if (aeroflots[i]._name == punkt)
                 {
@@ -58,7 +56,7 @@ namespace Lab9_Zholudov_n1
             }
             if (find)
             {
-                for (int i = 0; i < 7; i++)
+                for (int i = 0; i < n; i++)
                 {
                     if (aeroflots[i]._name == punkt) Console.WriteLine("{2}: Рейс в пункт назначения {0} находится под номером {1}", punkt, aeroflots[i]._number, count);
                     count++;

@@ -1,0 +1,6 @@
+F:\курс 3\C#\Lab17_Zholudov\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\курс 3\C#\Lab17_Zholudov\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\курс 3\C#\Lab17_Zholudov\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\курс 3\C#\Lab17_Zholudov\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+F:\курс 3\C#\Lab17_Zholudov\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\курс 3\C#\Lab17_Zholudov\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

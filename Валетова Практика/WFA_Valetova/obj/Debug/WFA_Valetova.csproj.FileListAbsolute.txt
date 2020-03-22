@@ -1,0 +1,12 @@
+C:\Users\WITTEK\Desktop\Валетова Практика\WFA_Valetova\bin\Debug\WFA_Valetova.exe.config
+C:\Users\WITTEK\Desktop\Валетова Практика\WFA_Valetova\bin\Debug\WFA_Valetova.exe
+C:\Users\WITTEK\Desktop\Валетова Практика\WFA_Valetova\bin\Debug\WFA_Valetova.pdb
+C:\Users\WITTEK\Desktop\Валетова Практика\WFA_Valetova\obj\Debug\WFA_Valetova.csprojAssemblyReference.cache
+C:\Users\WITTEK\Desktop\Валетова Практика\WFA_Valetova\obj\Debug\WFA_Valetova.AfinCezarForm.resources
+C:\Users\WITTEK\Desktop\Валетова Практика\WFA_Valetova\obj\Debug\WFA_Valetova.AlgPrimaForm.resources
+C:\Users\WITTEK\Desktop\Валетова Практика\WFA_Valetova\obj\Debug\WFA_Valetova.MainForm.resources
+C:\Users\WITTEK\Desktop\Валетова Практика\WFA_Valetova\obj\Debug\WFA_Valetova.TheoryShowingForm.resources
+C:\Users\WITTEK\Desktop\Валетова Практика\WFA_Valetova\obj\Debug\WFA_Valetova.Properties.Resources.resources
+C:\Users\WITTEK\Desktop\Валетова Практика\WFA_Valetova\obj\Debug\WFA_Valetova.csproj.GenerateResource.cache
+C:\Users\WITTEK\Desktop\Валетова Практика\WFA_Valetova\obj\Debug\WFA_Valetova.exe
+C:\Users\WITTEK\Desktop\Валетова Практика\WFA_Valetova\obj\Debug\WFA_Valetova.pdb
