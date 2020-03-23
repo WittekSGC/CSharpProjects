@@ -1,8 +1,0 @@
-F:\курс 3\C#\не мое\Ignatovytch_kpiyap_var6\Ignatovich_16\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
-F:\курс 3\C#\не мое\Ignatovytch_kpiyap_var6\Ignatovich_16\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
-F:\курс 3\C#\не мое\Ignatovytch_kpiyap_var6\Ignatovich_16\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
-F:\курс 3\C#\не мое\Ignatovytch_kpiyap_var6\Ignatovich_16\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csprojAssemblyReference.cache
-F:\курс 3\C#\не мое\Ignatovytch_kpiyap_var6\Ignatovich_16\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
-F:\курс 3\C#\не мое\Ignatovytch_kpiyap_var6\Ignatovich_16\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
-F:\курс 3\C#\не мое\Ignatovytch_kpiyap_var6\Ignatovich_16\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
-F:\курс 3\C#\не мое\Ignatovytch_kpiyap_var6\Ignatovich_16\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb

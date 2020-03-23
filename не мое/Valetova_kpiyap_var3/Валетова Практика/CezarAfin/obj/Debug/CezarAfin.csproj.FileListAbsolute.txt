@@ -1,0 +1,6 @@
+C:\Users\WITTEK\Desktop\CezarAfin\bin\Debug\CezarAfin.exe.config
+C:\Users\WITTEK\Desktop\CezarAfin\bin\Debug\CezarAfin.exe
+C:\Users\WITTEK\Desktop\CezarAfin\bin\Debug\CezarAfin.pdb
+C:\Users\WITTEK\Desktop\CezarAfin\obj\Debug\CezarAfin.csprojAssemblyReference.cache
+C:\Users\WITTEK\Desktop\CezarAfin\obj\Debug\CezarAfin.exe
+C:\Users\WITTEK\Desktop\CezarAfin\obj\Debug\CezarAfin.pdb

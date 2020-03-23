@@ -1,6 +1,0 @@
-F:\курс 3\C#\не мое\Ignatovytch_kpiyap_var6\Ignatovich_11\Ignatovich_10.1\bin\Debug\Ignatovich_10.1.exe.config
-F:\курс 3\C#\не мое\Ignatovytch_kpiyap_var6\Ignatovich_11\Ignatovich_10.1\bin\Debug\Ignatovich_10.1.exe
-F:\курс 3\C#\не мое\Ignatovytch_kpiyap_var6\Ignatovich_11\Ignatovich_10.1\bin\Debug\Ignatovich_10.1.pdb
-F:\курс 3\C#\не мое\Ignatovytch_kpiyap_var6\Ignatovich_11\Ignatovich_10.1\obj\Debug\Ignatovich_11.csprojAssemblyReference.cache
-F:\курс 3\C#\не мое\Ignatovytch_kpiyap_var6\Ignatovich_11\Ignatovich_10.1\obj\Debug\Ignatovich_10.1.exe
-F:\курс 3\C#\не мое\Ignatovytch_kpiyap_var6\Ignatovich_11\Ignatovich_10.1\obj\Debug\Ignatovich_10.1.pdb

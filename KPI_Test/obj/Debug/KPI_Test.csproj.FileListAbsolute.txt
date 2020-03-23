@@ -4,3 +4,9 @@ C:\Users\WITTEK\Desktop\KPI_Test\bin\Debug\KPI_Test.pdb
 C:\Users\WITTEK\Desktop\KPI_Test\obj\Debug\KPI_Test.csprojAssemblyReference.cache
 C:\Users\WITTEK\Desktop\KPI_Test\obj\Debug\KPI_Test.exe
 C:\Users\WITTEK\Desktop\KPI_Test\obj\Debug\KPI_Test.pdb
+F:\курс 3\C#\KPI_Test\bin\Debug\KPI_Test.exe.config
+F:\курс 3\C#\KPI_Test\bin\Debug\KPI_Test.exe
+F:\курс 3\C#\KPI_Test\bin\Debug\KPI_Test.pdb
+F:\курс 3\C#\KPI_Test\obj\Debug\KPI_Test.csprojAssemblyReference.cache
+F:\курс 3\C#\KPI_Test\obj\Debug\KPI_Test.exe
+F:\курс 3\C#\KPI_Test\obj\Debug\KPI_Test.pdb

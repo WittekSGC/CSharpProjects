@@ -1,18 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    struct Aeroflot
+    public struct Aeroflot
     {
         public string _name, _type;    //пункт назначения, тип самолета
         public int _number;            //номер рейса
     }
 
-    class AeroClass : IComparer<Aeroflot>
+    public class AeroClass : IComparer<Aeroflot>
     {
         string FilePath = "input.txt";
         List<Aeroflot> aeroflots = new List<Aeroflot>();
@@ -21,21 +19,8 @@ namespace ConsoleApp1
         public AeroClass()
         {
             ReadFromFile();
-
-            foreach (var item in aeroflots)
-            {
-                Console.WriteLine(item._name + " " + item._type + " " + item._number);
-            }
-
-            //тут типа изменяется все
-            AddElement();
-            Sorting();
-
-            WriteToFile();
-
-            Console.ReadKey();
         }
-        private  void ReadFromFile()
+        public void ReadFromFile()
         {
             FileStream input = new FileStream(FilePath, FileMode.Open, FileAccess.Read);
             StreamReader inputReader = new StreamReader(input);
@@ -57,7 +42,7 @@ namespace ConsoleApp1
             input.Close();
         }
 
-        private void WriteToFile()
+        public void WriteToFile()
         {
             FileStream outStream = new FileStream(FilePath, FileMode.OpenOrCreate, FileAccess.Write);
             StreamWriter outWriter = new StreamWriter(outStream);
@@ -74,7 +59,7 @@ namespace ConsoleApp1
             outStream.Close();
         }
 
-        private void Sorting()
+        public void Sorting()
         {
             Console.WriteLine("Pick sort parameter: 1 - name, 2 - type, 3 - number");
             SortParametr = Console.ReadLine();
@@ -113,7 +98,7 @@ namespace ConsoleApp1
             }
         }
 
-        private void AddElement()
+        public void AddElement()
         {
             Aeroflot aeroflot = new Aeroflot()
             {
@@ -123,14 +108,106 @@ namespace ConsoleApp1
             };
             aeroflots.Add(aeroflot);
         }
+
+        public void FindBy()
+        {
+            Console.WriteLine("Enter 'name', 'type' or 'number' to pick type of search");
+            string find;
+            switch (Console.ReadLine())
+            {
+                case "name":
+                    Console.Write("Enter search parameter: ");
+                    find = Console.ReadLine();
+                    foreach (Aeroflot item in aeroflots)
+                    {
+                        if (item._name == find)
+                        {
+                            Console.WriteLine(item._name + " " + item._type + " " + item._number);
+                        }
+                    }
+                    break;
+                case "type":
+                    Console.Write("Enter search parameter: ");
+                    find = Console.ReadLine();
+                    foreach (Aeroflot item in aeroflots)
+                    {
+                        if (item._type == find)
+                        {
+                            Console.WriteLine(item._name + " " + item._type + " " + item._number);
+                        }
+                    }
+                    break;
+                case "number":
+                    Console.Write("Enter search parameter: ");
+                    int nfind = int.Parse(Console.ReadLine());
+                    foreach (Aeroflot item in aeroflots)
+                    {
+                        if (item._number == nfind)
+                        {
+                            Console.WriteLine(item._name + " " + item._type + " " + item._number);
+                        }
+                    }
+                    break;
+                default:
+                    break;
+            }
+        }
+
+        public void RemoveElement(int position)
+        {
+            if (position >= aeroflots.Count || position < 0)
+                Console.WriteLine("error index!");
+            else
+            {
+                int count = 0;
+                foreach (Aeroflot item in aeroflots)
+                {
+                    if (count == position)
+                        aeroflots.Remove(item);
+                    else
+                        count++;
+                }
+            }
+        }
+
+        public void PrintElements()
+        {
+            int count = 0;
+            foreach (var item in aeroflots)
+            {
+                Console.WriteLine("{0}: name: {1}, type: {2}, number: {3}", count, item._name, item._type, item._number);
+                count++;
+            }
+        }
+
+        public void SwitchFilePath()
+        {
+            Console.WriteLine("Enter new path and(or) name to file");
+            FilePath = Console.ReadLine();
+        }
     }
 
     class Program
     {
         static void Main(string[] args)
         {
-            AeroClass aeroClass = new AeroClass();
+            AeroClass aero = new AeroClass();
+            aero.PrintElements();
+
+            aero.FindBy();
+            aero.Sorting();
+            aero.PrintElements();
+
+            aero.AddElement();
+            aero.PrintElements();
+
+            aero.RemoveElement(4);
+            aero.PrintElements();
+
+            aero.SwitchFilePath();
+            aero.WriteToFile();
+
             Console.ReadKey();
-        }        
+        }
     }
 }

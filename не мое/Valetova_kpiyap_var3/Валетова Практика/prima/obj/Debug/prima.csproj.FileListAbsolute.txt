@@ -1,0 +1,6 @@
+C:\Users\WITTEK\Desktop\prima\bin\Debug\prima.exe.config
+C:\Users\WITTEK\Desktop\prima\bin\Debug\prima.exe
+C:\Users\WITTEK\Desktop\prima\bin\Debug\prima.pdb
+C:\Users\WITTEK\Desktop\prima\obj\Debug\prima.csprojAssemblyReference.cache
+C:\Users\WITTEK\Desktop\prima\obj\Debug\prima.exe
+C:\Users\WITTEK\Desktop\prima\obj\Debug\prima.pdb

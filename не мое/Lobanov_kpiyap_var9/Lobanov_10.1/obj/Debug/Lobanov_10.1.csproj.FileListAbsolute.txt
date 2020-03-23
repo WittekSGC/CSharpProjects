@@ -1,6 +1,0 @@
-E:\курс 3\C#\не мое\Lobanov_kpiyap_var9\Lobanov_10.1\bin\Debug\Lobanov_10.1.exe.config
-E:\курс 3\C#\не мое\Lobanov_kpiyap_var9\Lobanov_10.1\bin\Debug\Lobanov_10.1.exe
-E:\курс 3\C#\не мое\Lobanov_kpiyap_var9\Lobanov_10.1\bin\Debug\Lobanov_10.1.pdb
-E:\курс 3\C#\не мое\Lobanov_kpiyap_var9\Lobanov_10.1\obj\Debug\Lobanov_10.1.csprojAssemblyReference.cache
-E:\курс 3\C#\не мое\Lobanov_kpiyap_var9\Lobanov_10.1\obj\Debug\Lobanov_10.1.exe
-E:\курс 3\C#\не мое\Lobanov_kpiyap_var9\Lobanov_10.1\obj\Debug\Lobanov_10.1.pdb

@@ -79,18 +79,29 @@ namespace KPI_Test
         }        
     }
 
-    delegate void Method1(double sum);
+
+
+
+
+
+    delegate void Actions();
 
     class Program
     {
         static void Main(string[] args)
         {
-            MyKlass first = new MyKlass();
-            MyKlass second = new MyKlass("one", "two", 500);
+            Game noParams = new Game();
+            Game withParams = new Game("Gay", "Hui", 200);
 
-            Method1 firstMethods = new Method1(first.Zachisl);
-            firstMethods.Invoke(100);
-            first.ShowInfo("first");
+            Actions actions = new Actions(noParams.Action);
+            //+= -=
+            actions += Console.WriteLine;
+            actions += withParams.Action;
+
+            actions();
+
+            noParams.PrintOut();
+            withParams.PrintOut();
 
             Console.ReadLine();
         }
